@@ -14,5 +14,6 @@ El usuario ingresa los nombres de quienes vayan a participar y el sistema elige 
 3 Cuando esten todos los nombres ingresados, clickear **Sortear amigo**.
 4 El sistema muestra todos los nombres y junto a ellos el amigo secreto.
 
+##
 La principal falla que no pude resolver es para que no muestre todos los resultados a la vez, de modo que no todos puedan ver a quien le fueron sorteados.
 
